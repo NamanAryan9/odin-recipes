@@ -1,5 +1,7 @@
 # odin-recipes
 
 Project based learning:
-First website with proper code.
-will update after doing somethings.
+-added link other to other pages.
+-added images to two html file.
+-completed the odin project.
+
